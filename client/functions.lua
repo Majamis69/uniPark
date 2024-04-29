@@ -1,3 +1,5 @@
+lib.locale()
+
 RegisterNetEvent("uniPark:Success")
 AddEventHandler("uniPark:Success", function(cPlate)  
     lib.notify({
